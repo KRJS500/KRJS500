@@ -90,13 +90,13 @@ Senior Mobile Engineer with 10+ years of experience in mobile development, speci
   <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/KRJS500/KRJS500/blob/master/images/In-n-out-1.png" width="100%" />
+        <img src="https://github.com/KRJS500/KRJS500/blob/master/images/In-n-out.png" width="100%" />
         <p align="center"><a href="https://play.google.com/store/apps/details?id=com.trevornemanic.secretmenuforinnout">In-N-Out: Kotlin</a></p>
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="https://github.com/KRJS500/KRJS500/blob/master/images/In-n-out-2.png" width="100%" />
+        <img src="https://github.com/KRJS500/KRJS500/blob/master/images/In-n-out.png" width="100%" />
         <p align="center"><a href="https://apps.apple.com/us/app/secret-menu-for-in-n-out/id6451052960?platform=iphone">In-N-Out: SwiftUI</a></p>
       </p>
     </td>
