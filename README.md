@@ -1,8 +1,7 @@
-<br/>
 <div align="center" >
   <img src="https://github.com/KRJS500/KRJS500/blob/master/images/mobile-bg-3.png" width="100%" />
   <br><br>
-  <h1>Senior Mobile Developer(React Native | Android | IOS)<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
+  <h1>Senior Mobile Developer(React Native | Android | IOS)</h1>
 </div>
 
 Senior Mobile Engineer with 10+ years of experience in mobile development, specializing in React Native, Flutter, Java, Kotlin, Swift, and SwiftUI. Skilled in API integration with REST, GraphQL, and backend technologies including Python, Node/Express, and Ruby on Rails. Proven expertise in deploying scalable, high-performance applications on AWS, delivering seamless cross-platform user experiences across iOS and Android.
