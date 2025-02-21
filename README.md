@@ -1,6 +1,6 @@
 <br/>
 <div align="center" >
-  <img src="https://github.com/KRJS500/KRJS500/blob/master/images/mobile-bg-1.png" width="100%" height="80%" />
+  <img src="https://github.com/KRJS500/KRJS500/blob/master/images/mobile-bg-3.png" width="100%" />
   <br><br>
   <h1>Senior Mobile Developer(React Native | Android | IOS)<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 </div>
